@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
                     TextSpan(
                       text: " phone",
                       style: TextStyle(
-                        fontSize: 16,
+                        fontSize: 14,
                         color: Colors.blue,
                       ),
                     ),
